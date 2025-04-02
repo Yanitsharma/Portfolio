@@ -5,7 +5,7 @@ export const Bio = {
     "I am a driven and adaptable professional with a strong commitment to learning and excellence. Equipped with a positive mindset and a proactive approach, I embrace challenges as opportunities for growth and innovation. With a dedication to delivering exceptional results, I am eager to make a meaningful impact and contribute to success in every endeavor.",
   github: "https://github.com/vamshithallapalli",
   resume:
-    "https://drive.google.com/file/d/1GOHcUv0Ovk163uUmQfz_MNpWVR0jKwAJ/view?usp=sharing",
+    "https://drive.google.com/file/d/1Cp3fwV4H-mxRgfZNhsw81DuqtFHs4GAp/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vamshit04/",
   GeeksforGeeks: "https://www.geeksforgeeks.org/user/vamshithallapalli_2004/",
   Leetcode: "",
